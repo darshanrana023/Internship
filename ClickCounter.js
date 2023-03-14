@@ -5,6 +5,7 @@ export class ClickCounter extends Component {
     const {count,increamentCount}= this.props
     return (
       <div>
+        <h2> This is New Branch </h2>
         < button onClick={increamentCount}>Click {count} times</button>
       </div>
     )
