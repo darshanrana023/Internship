@@ -1,0 +1,12 @@
+
+.primary{
+    color:blueviolet;
+    background-color: black;
+    border: 5px solid blueviolet;
+}
+.btn{
+    color:white;
+    background-color: black;
+    border: 2px solid rgb(43, 119, 226);
+    border-radius: 2px;
+}
